@@ -15,7 +15,7 @@ Your program must have sufficient comments to clearly explain how your code work
 This assignment is worth 330 points outlined [below](#grading-objectives)
 
 
-## Task
+## Tasks
 
 Your task is to write a TLS-enabled chat server on a complex mininet network.
 More specifically, this assignment requires you:
