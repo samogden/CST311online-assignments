@@ -147,7 +147,7 @@ I suggest executing that program and studying it to understand how you will need
 
 2. A PowerPoint presentation entitled “PA #4 Hints on Static Routes” gives an example how to assign static routes so that network traffic flows correctly.
 3. There is a short demo video showing a non-TLS implementation of the PA4 requirements 4 and 5.  You can apply it for requirement 3 as well.  Please read the notes.
-4. Sample TCP server and client scripts from Programming Assignment #1 have been modified to enable TLS connections.  There is a link in Canvas to these scripts.  Also provided is a short document entitled “TLS TCP Server and Client.”.   These scripts should help you with the TLS-enabling part of PA4 requirement 5.
+4. [Sample TCP server and client scripts from Programming Assignment #1 have been modified to enable TLS connections](https://drive.google.com/drive/folders/1fk2ryPTnt89_IL1UFYOYsb4lT_yqDIPU).  Also provided is a short document entitled “TLS TCP Server and Client.”.   These scripts should help you with the TLS-enabling part of PA4 requirement 5.
 5. The last hint provides information about programmatically running commands on an xterm window of a host.  This may help you with PA4 requirement 7.
 
 
