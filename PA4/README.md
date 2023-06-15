@@ -145,7 +145,7 @@ I suggest executing that program and studying it to understand how you will need
 1. To understand how to approach setting up the routing in this assignment, first read the short document entitled “Notes on Assigning IP addresses to Legacy Routers”. Then examine the image below, which shows some hints about how to approach this programming assignment. 
 <img src="imgs/hint.png" alt="hint" width="600">
 
-2. A PowerPoint presentation entitled “PA #4 Hints on Static Routes” gives an example how to assign static routes so that network traffic flows correctly.
+2. A PowerPoint presentation entitled “[PA #4 Hints on Static Routes](https://docs.google.com/presentation/d/1RJ7y_k38oP3hNvZOHWTFoWK823OOwKuG-T2rJBv0MLs/edit)” gives an example how to assign static routes so that network traffic flows correctly.
 3. There is a short demo video showing a non-TLS implementation of the PA4 requirements 4 and 5.  You can apply it for requirement 3 as well.  Please read the notes.
 4. [Sample TCP server and client scripts from Programming Assignment #1 have been modified to enable TLS connections](https://drive.google.com/drive/folders/1fk2ryPTnt89_IL1UFYOYsb4lT_yqDIPU).  Also provided is a short document entitled “[TLS TCP Server and Client](https://docs.google.com/document/d/1n0LrCilgd9jV6WHKbpqkTIX_H_R-8ZR0EQhNMR0--CU/edit?usp=sharing)”.   These scripts should help you with the TLS-enabling part of PA4 requirement 5.
 5. The last hint provides information about programmatically running commands on an xterm window of a host.  This may help you with PA4 requirement 7.
