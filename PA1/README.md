@@ -71,7 +71,7 @@ AB12CDEF
 TWO WORDS HERE !!
 ```
 
-Started code can be found in the [src](src) directory.
+Starter code can be found in the [src](src) directory.
 This code is for python3 and should be able to run unchanged on your local machine.
 However, to get it working within mininet will require some modifications.
 
