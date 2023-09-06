@@ -31,7 +31,7 @@ def handle_client_request(server_socket, message, client_addr):
   :return:
   """
   
-  log.debug("Recieved message: \"" + message + "\" from client @ \"" + client_addr + "\"")
+  log.debug("Recieved message: \"" + str(message) + "\" from client @ \"" + str(client_addr) + "\"")
   
   # Does two things:
   ## 1. decode message -- messages are transmitted as a UTF-8 bytestream so we have to decode them
