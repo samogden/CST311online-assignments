@@ -16,13 +16,13 @@ We are using a variation of the steps found [here](https://deanmalone.net/post/h
 ### Step 1: Set up You own repository and mark it as private
 
 Start setting up a new repository via [this link](https://github.com/new).
-Give it a descriptive name, below I call mine `cst311-fall2022-assignments` and make sure to mark it as a "private" repository.
+Give it a descriptive name with the format of `cst311-[semester]-[teamname]` and make sure to mark it as a "private" repository.  Below I use `cst311-fall2022-assignments` as my repo name, but you should change what you name yours.
 This ensures that the only people who can see it are those who you can add -- specifically your teammates. 
 
 <img src="imgs/1-new-repository-page.png" height="600">
 
-After you fill in this information click "Create repository" and your respository will be created.
-Note, we want this to be an empty respository so we can add other files to it later.
+After you fill in this information click "Create repository" and your repository will be created.
+Note, we want this to be an empty repository so we can add other files to it later.
 
 ### Step 2: Clone your new repo to your local machine
 
@@ -40,8 +40,11 @@ Add this repository as an "upstream" to your new repository.
 You do this with the following command:
 
 ```shell
-git remote add upstream https://github.com/samogden/CST311-assignments.git
+git remote add upstream https://github.com/samogden/CST311online-assignments.git
+# Note: this command may need to be modified if you are currently looking at a different repo than the above.
 ```
+
+
 
 This will add this repository as an "upstream", which allows it to pull updates as well as the initial data, which we will do in a moment.
 
@@ -56,7 +59,7 @@ remote: Counting objects: 100% (83/83), done.
 remote: Compressing objects: 100% (58/58), done.
 remote: Total 83 (delta 19), reused 70 (delta 15), pack-reused 0
 Unpacking objects: 100% (83/83), 542.80 KiB | 769.00 KiB/s, done.
-From https://github.com/samogden/CST311-assignments
+From https://github.com/samogden/CST311online-assignments
  * branch            main       -> FETCH_HEAD
  * [new branch]      main       -> upstream/main
 ```
@@ -64,7 +67,7 @@ From https://github.com/samogden/CST311-assignments
 ### Step 5: Push to your github repo
 
 Push your newly downloaded files to your remote repository.
-Note, this command may run into issues if your remote repository has the main branch set as `master` isntead of `main`, but this can be changed in github.
+Note, this command may run into issues if your remote repository has the main branch set as `master` instead of `main`, but this can be changed in github.
 
 ```shell
 $ git push origin main
