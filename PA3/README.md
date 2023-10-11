@@ -133,3 +133,7 @@ Create a git branch where you can modify the server-client to do one or more of 
 Starter code can be found in the [src](src) directory.
 
 [^1]: Only the first message from each client is required to be stored but if you want to capture more it can be a fun challenge!
+
+### Helpful links
+
+There is a helpful video walkthrough of this assignment that can be found [here](https://csumb.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de8324fa-54ae-4586-acb0-adb601107a3f).
