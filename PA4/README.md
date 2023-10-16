@@ -6,7 +6,7 @@ READ INSTRUCTIONS CAREFULLY BEFORE YOU START THE ASSIGNMENT.
 Assignment must be submitted electronically to [Canvas](https://csumb.instructure.com/) by 11:59 p.m. on the due date. Late assignments will not be accepted. Use the Teams on the Programming Assignment Teams document (also on Canvas under General Information > Team Information).
 Select your Team leader and divide up work per the Programming Process instructions (also on Canvas under General Information > Team Information.)
 
-The assignment requires you to submit a single python program. The naming convention of the file should be PA4_Team<your team #>.py
+The assignment potentially requires you to submit a number of python programs.  The naming convention should be `PA4_[script_descriptor]_Team[team #].py`.
 Put your names in the program as well. 
 
 Your program must meet the requirements below. 
