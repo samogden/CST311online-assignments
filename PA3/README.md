@@ -76,6 +76,7 @@ Finally, a test run should look similar to the below, although your logging mess
 
 <img src="./imgs/example_run.png" height="400" alt="Connection of clients to server (example 3)">
 
+***Note:*** Although these examples are not running in mininet, yours should be run in the mininet VM, per the [grading criteria](#grading-criteria) below.
 
 
 ### Message Format
