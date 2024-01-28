@@ -13,7 +13,7 @@ These steps will only need to be taken by one person on your team and then you c
 The overall steps are we are setting up an empty private repository and then setting it to use this repository as a remote.
 We are using a variation of the steps found [here](https://deanmalone.net/post/how-to-fork-your-own-repo-on-github/).
 
-### Step 1: Set up You own repository and mark it as private
+### Step 1: Set up your own repository and mark it as private
 
 Start setting up a new repository via [this link](https://github.com/new).
 Give it a descriptive name with the format of `cst311-[semester]-[teamname]` and make sure to mark it as a "private" repository.  Below I use `cst311-fall2022-assignments` as my repo name, but you should change what you name yours.
